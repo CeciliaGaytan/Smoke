@@ -17,6 +17,8 @@ section::before{
     mix-blend-mode: color;
 }
 
+
+
 video{
     object-fit: cover;
 }
